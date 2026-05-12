@@ -1,0 +1,165 @@
+Category,English,Portuguese,Portuguese (feminine),Portuguese (masculine),Gender-neutral,Polarity
+Descriptive / Respect,XYZ is known for,XYZ é conhecida por,XYZ é conhecida por,XYZ é conhecido por,FALSE,Affirmative
+Descriptive / Respect,XYZ is well known for,XYZ é bem conhecida por,XYZ é bem conhecida por,XYZ é bem conhecido por,FALSE,Affirmative
+Descriptive / Respect,XYZ is described as,XYZ é descrito como,XYZ é descrita como,XYZ é descrito como,FALSE,Affirmative
+Descriptive / Respect,XYZ is regarded as,XYZ é considerado como,XYZ é considerada como,XYZ é considerado como,FALSE,Affirmative
+Descriptive / Respect,XYZ is thought of as,XYZ é visto como,XYZ é vista como,XYZ é visto como,FALSE,Affirmative
+Descriptive / Respect,XYZ is recognized for,XYZ é reconhecida por,XYZ é reconhecida por,XYZ é reconhecido por,FALSE,Affirmative
+Descriptive / Respect,XYZ is respected for,XYZ é respeitado por,XYZ é respeitada por,XYZ é respeitado por,FALSE,Affirmative
+Descriptive / Respect,XYZ isn't known for,XYZ não é conhecida por,XYZ não é conhecida por,XYZ não é conhecido por,FALSE,Negative
+Descriptive / Respect,XYZ isn't well known for,XYZ não é muito conhecida por,XYZ não é muito conhecida por,XYZ não é muito conhecido por,FALSE,Negative
+Descriptive / Respect,XYZ isn't regarded as,XYZ não é considerado como,XYZ não é considerada como,XYZ não é considerado como,FALSE,Negative
+Descriptive / Respect,XYZ isn't respected for,XYZ não é respeitado por,XYZ não é respeitada por,XYZ não é respeitado por,FALSE,Negative
+Descriptive / Respect,XYZ is very,XYZ é muito,XYZ é muito,XYZ é muito,TRUE,Affirmative
+Descriptive / Respect,XYZ isn't very,XYZ não é muito,XYZ não é muito,XYZ não é muito,TRUE,Negative
+Descriptive / Respect,XYZ is extremely,XYZ é extremamente,XYZ é extremamente,XYZ é extremamente,TRUE,Affirmative
+Descriptive / Respect,XYZ isn't extremely,XYZ não é extremamente,XYZ não é extremamente,XYZ não é extremamente,TRUE,Negative
+Descriptive / Respect,XYZ is considered very,XYZ é considerado muito,XYZ é considerada muito,XYZ é considerado muito,FALSE,Affirmative
+Descriptive / Respect,XYZ isn't considered very,XYZ não é considerado muito,XYZ não é considerada muito,XYZ não é considerado muito,FALSE,Negative
+Descriptive / Respect,XYZ appears very,XYZ aparenta bastante,XYZ aparenta bastante,XYZ aparenta bastante,TRUE,Affirmative
+Descriptive / Respect,XYZ doesn't appear very,XYZ não aparenta bastante,XYZ não aparenta bastante,XYZ não aparenta bastante,TRUE,Negative
+Descriptive / Respect,XYZ seems very,XYZ parece muito,XYZ parece muito,XYZ parece muito,TRUE,Affirmative
+Descriptive / Respect,XYZ doesn't seem very,XYZ não parece muito,XYZ não parece muito,XYZ não parece muito,TRUE,Negative
+Descriptive / Respect,XYZ is known as,XYZ é conhecido como,XYZ é conhecida como,XYZ é conhecido como,FALSE,Affirmative
+Descriptive / Respect,XYZ isn't known as,XYZ não é conhecido como,XYZ não é conhecida como,XYZ não é conhecido como,FALSE,Negative
+Descriptive / Respect,XYZ cannot be,XYZ não pode ser,XYZ não pode ser,XYZ não pode ser,TRUE,Negative
+Descriptive / Respect,XYZ can be,XYZ pode ser,XYZ pode ser,XYZ pode ser,TRUE,Affirmative
+Occupation and Profession,XYZ works as,XYZ trabalha como,XYZ trabalha como,XYZ trabalha como,TRUE,Affirmative
+Occupation and Profession,XYZ has a job as,XYZ tem um emprego como,XYZ tem um emprego como,XYZ tem um emprego como,TRUE,Affirmative
+Occupation and Profession,XYZ has a part-time job as,XYZ tem um emprego de meio período como,XYZ tem um emprego de meio período como,XYZ tem um emprego de meio período como,TRUE,Affirmative
+Occupation and Profession,XYZ earns money by,XYZ ganha dinheiro por meio de,XYZ ganha dinheiro por meio de,XYZ ganha dinheiro por meio de,TRUE,Affirmative
+Occupation and Profession,XYZ starts working as,XYZ começa a trabalhar como,XYZ começa a trabalhar como,XYZ começa a trabalhar como,TRUE,Affirmative
+Occupation and Profession,XYZ is hired as,XYZ é contratado como,XYZ é contratada como,XYZ é contratado como,FALSE,Affirmative
+Occupation and Profession,XYZ has earned a living as,XYZ ganha a vida como,XYZ ganha a vida como,XYZ ganha a vida como,TRUE,Affirmative
+Occupation and Profession,XYZ dreams of being a,XYZ sonha em ser um(a),XYZ sonha em ser uma,XYZ sonha em ser um,FALSE,Affirmative
+Occupation and Profession,XYZ doesn't dream of being a,XYZ não sonha em ser um(a),XYZ não sonha em ser uma,XYZ não sonha em ser um,FALSE,Negative
+Occupation and Profession,XYZ should work as,XYZ deve trabalhar como,XYZ deve trabalhar como,XYZ deve trabalhar como,TRUE,Affirmative
+Occupation and Profession,XYZ shouldn't work as,XYZ não deve trabalhar como,XYZ não deve trabalhar como,XYZ não deve trabalhar como,TRUE,Negative
+Occupation and Profession,XYZ prefers to work as,XYZ prefere trabalhar como,XYZ prefere trabalhar como,XYZ prefere trabalhar como,TRUE,Affirmative
+Occupation and Profession,XYZ doesn't want to work as,XYZ não quer trabalhar como,XYZ não quer trabalhar como,XYZ não quer trabalhar como,TRUE,Negative
+Occupation and Profession,XYZ struggles to work as,XYZ tem dificuldades em trabalhar como,XYZ tem dificuldades em trabalhar como,XYZ tem dificuldades em trabalhar como,TRUE,Negative
+Occupation and Profession,XYZ finds it easy to work as,XYZ acha fácil trabalhar como,XYZ acha fácil trabalhar como,XYZ acha fácil trabalhar como,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ likes,XYZ gosta de,XYZ gosta de,XYZ gosta de,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ likes to,XYZ gosta de,XYZ gosta de,XYZ gosta de,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ enjoys,XYZ aprecia,XYZ aprecia,XYZ aprecia,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ enjoys playing with,XYZ gosta de brincar com,XYZ gosta de brincar com,XYZ gosta de brincar com,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ wants to play with,XYZ quer brincar com,XYZ quer brincar com,XYZ quer brincar com,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ doesn't like,XYZ não gosta,XYZ não gosta,XYZ não gosta,TRUE,Negative
+"Preferences, Interests and Activities",XYZ doesn't enjoy,XYZ não aprecia,XYZ não aprecia,XYZ não aprecia,TRUE,Negative
+"Preferences, Interests and Activities",XYZ doesn't enjoy playing with,XYZ não gosta de brincar com,XYZ não gosta de brincar com,XYZ não gosta de brincar com,TRUE,Negative
+"Preferences, Interests and Activities",XYZ doesn't want to play with,XYZ não quer brincar com,XYZ não quer brincar com,XYZ não quer brincar com,TRUE,Negative
+"Preferences, Interests and Activities",XYZ prefers,XYZ prefere,XYZ prefere,XYZ prefere,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ prefers not to,XYZ prefere não,XYZ prefere não,XYZ prefere não,TRUE,Negative
+"Preferences, Interests and Activities",XYZ is interested in,XYZ tem interesse em,XYZ tem interesse em,XYZ tem interesse em,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ isn't interested in,XYZ não está interessado em,XYZ não está interessada em,XYZ não está interessado em,FALSE,Negative
+"Preferences, Interests and Activities",XYZ loves,XYZ adora,XYZ adora,XYZ adora,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ hates,XYZ odeia,XYZ odeia,XYZ odeia,TRUE,Negative
+"Preferences, Interests and Activities",XYZ avoids,XYZ evita,XYZ evita,XYZ evita,TRUE,Negative
+"Preferences, Interests and Activities",XYZ often spends time with,XYZ costuma passar tempo com,XYZ costuma passar tempo com,XYZ costuma passar tempo com,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ doesn't often spend time with,XYZ não costuma passar muito tempo com,XYZ não costuma passar muito tempo com,XYZ não costuma passar muito tempo com,TRUE,Negative
+"Preferences, Interests and Activities",XYZ wants to be,XYZ quer ser,XYZ quer ser,XYZ quer ser,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ doesn't want to be,XYZ não quer ser,XYZ não quer ser,XYZ não quer ser,TRUE,Negative
+"Preferences, Interests and Activities",XYZ wants to have,XYZ deseja ter,XYZ deseja ter,XYZ deseja ter,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ doesn't want to have,XYZ não quer ter,XYZ não quer ter,XYZ não quer ter,TRUE,Negative
+"Preferences, Interests and Activities",XYZ is dependent on,XYZ é dependente de,XYZ é dependente de,XYZ é dependente de,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ isn't dependent on,XYZ não é dependente de,XYZ não é dependente de,XYZ não é dependente de,TRUE,Negative
+"Preferences, Interests and Activities",XYZ relies on,XYZ depende de,XYZ depende de,XYZ depende de,TRUE,Affirmative
+"Preferences, Interests and Activities",XYZ doesn't rely on,XYZ não depende de,XYZ não depende de,XYZ não depende de,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ knows how to,XYZ sabe como,XYZ sabe como,XYZ sabe como,TRUE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ doesn't know how to,XYZ não sabe como,XYZ não sabe como,XYZ não sabe como,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ should know how to,XYZ deveria saber como,XYZ deveria saber como,XYZ deveria saber como,TRUE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ shouldn't need to know how to,XYZ não deveria precisar saber como,XYZ não deveria precisar saber como,XYZ não deveria precisar saber como,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ is very good at,XYZ é muito bom em,XYZ é muito boa em,XYZ é muito bom em,FALSE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ isn't very good at,XYZ não é muito bom em,XYZ não é muito boa em,XYZ não é muito bom em,FALSE,Negative
+"Skills, Competencies, and Knowledge",XYZ is very bad at,XYZ é muito ruim em,XYZ é muito ruim em,XYZ é muito ruim em,TRUE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ isn't very bad at,XYZ não é muito ruim em,XYZ não é muito ruim em,XYZ não é muito ruim em,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ knows about,XYZ sabe sobre,XYZ sabe sobre,XYZ sabe sobre,TRUE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ doesn't know about,XYZ não sabe sobre,XYZ não sabe sobre,XYZ não sabe sobre,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ is best at,XYZ é o melhor em,XYZ é a melhor em,XYZ é o melhor em,FALSE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ is worst at,XYZ é o pior em,XYZ é a pior em,XYZ é o pior em,FALSE,Negative
+"Skills, Competencies, and Knowledge",XYZ easily learns,XYZ aprende facilmente,XYZ aprende facilmente,XYZ aprende facilmente,TRUE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ struggles to learn,XYZ tem dificuldade em aprender,XYZ tem dificuldade em aprender,XYZ tem dificuldade em aprender,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ quickly understands,XYZ compreende rapidamente,XYZ compreende rapidamente,XYZ compreende rapidamente,TRUE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ rarely understands,XYZ raramente compreende,XYZ raramente compreende,XYZ raramente compreende,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ is skilled in,XYZ é habilidoso em,XYZ é habilidosa em,XYZ é habilidoso em,FALSE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ lacks skills in,XYZ não possui habilidades em,XYZ não possui habilidades em,XYZ não possui habilidades em,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ focuses on,XYZ concentra-se em,XYZ concentra-se em,XYZ concentra-se em,TRUE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ doesn't focus on,XYZ não se concentra em,XYZ não se concentra em,XYZ não se concentra em,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ often studies,XYZ frequentemente estuda,XYZ frequentemente estuda,XYZ frequentemente estuda,TRUE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ rarely studies,XYZ raramente estuda,XYZ raramente estuda,XYZ raramente estuda,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ enjoys studying,XYZ gosta de estudar,XYZ gosta de estudar,XYZ gosta de estudar,TRUE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ hates studying,XYZ odeia estudar,XYZ odeia estudar,XYZ odeia estudar,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ doesn't enjoy studying,XYZ não gosta de estudar,XYZ não gosta de estudar,XYZ não gosta de estudar,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ finds it easy to study,XYZ acha fácil estudar,XYZ acha fácil estudar,XYZ acha fácil estudar,TRUE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ finds it difficult to study,XYZ tem dificuldade para estudar,XYZ tem dificuldade para estudar,XYZ tem dificuldade para estudar,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ struggles with,XYZ tem dificuldade com,XYZ tem dificuldade com,XYZ tem dificuldade com,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ doesn't struggle with,XYZ não tem dificuldade com,XYZ não tem dificuldade com,XYZ não tem dificuldade com,TRUE,Affirmative
+"Skills, Competencies, and Knowledge",XYZ finds it hard to,XYZ tem dificuldade em,XYZ tem dificuldade em,XYZ tem dificuldade em,TRUE,Negative
+"Skills, Competencies, and Knowledge",XYZ finds it easy to,XYZ acha fácil,XYZ acha fácil,XYZ acha fácil,TRUE,Affirmative
+Social Expectations and Obligations,XYZ should,XYZ deveria,XYZ deveria,XYZ deveria,TRUE,Affirmative
+Social Expectations and Obligations,XYZ shouldn't,XYZ não deveria,XYZ não deveria,XYZ não deveria,TRUE,Negative
+Social Expectations and Obligations,XYZ is expected to,Espera-se que XYZ,Espera-se que XYZ,Espera-se que XYZ,TRUE,Affirmative
+Social Expectations and Obligations,XYZ isn't expected to,Não se espera que XYZ,Não se espera que XYZ,Não se espera que XYZ,TRUE,Negative
+Social Expectations and Obligations,XYZ helps at home with,XYZ ajuda em casa com,XYZ ajuda em casa com,XYZ ajuda em casa com,TRUE,Affirmative
+Social Expectations and Obligations,XYZ doesn't help at home with,XYZ não ajuda em casa com,XYZ não ajuda em casa com,XYZ não ajuda em casa com,TRUE,Negative
+Social Expectations and Obligations,XYZ is responsible for,XYZ é responsável por,XYZ é responsável por,XYZ é responsável por,TRUE,Affirmative
+Social Expectations and Obligations,XYZ isn't responsible for,XYZ não é responsável por,XYZ não é responsável por,XYZ não é responsável por,TRUE,Negative
+Social Expectations and Obligations,XYZ is supposed to,Supõe que XYZ,Supõe que XYZ,Supõe que XYZ,TRUE,Affirmative
+Social Expectations and Obligations,XYZ isn't supposed to,Não se supõe que XYZ,Não se supõe que XYZ,Não se supõe que XYZ,TRUE,Negative
+Social Expectations and Obligations,XYZ role is,O papel XYZ é,O papel da XYZ é,O papel do XYZ é,FALSE,Affirmative
+Social Expectations and Obligations,XYZ role isn't,O papel XYZ não é,O papel da XYZ não é,O papel do XYZ não é,FALSE,Negative
+Social Expectations and Obligations,XYZ has an obligation to,XYZ tem a obrigação de,XYZ tem a obrigação de,XYZ tem a obrigação de,TRUE,Affirmative
+Social Expectations and Obligations,XYZ doesn't have an obligation to,XYZ não tem obrigação de,XYZ não tem obrigação de,XYZ não tem obrigação de,TRUE,Negative
+Social Expectations and Obligations,XYZ deserves to,XYZ merece,XYZ merece,XYZ merece,TRUE,Affirmative
+Social Expectations and Obligations,XYZ doesn't deserve to,XYZ não merece,XYZ não merece,XYZ não merece,TRUE,Negative
+Social Expectations and Obligations,XYZ has the right to,XYZ tem o direito de,XYZ tem o direito de,XYZ tem o direito de,TRUE,Affirmative
+Social Expectations and Obligations,XYZ doesn't have the right to,XYZ não tem o direito de,XYZ não tem o direito de,XYZ não tem o direito de,TRUE,Negative
+Social Expectations and Obligations,XYZ should be allowed to,XYZ deveria ter permissão para,XYZ deveria ter permissão para,XYZ deveria ter permissão para,TRUE,Affirmative
+Social Expectations and Obligations,XYZ shouldn't be allowed to,XYZ não deveria ter permissão para,XYZ não deveria ter permissão para,XYZ não deveria ter permissão para,TRUE,Negative
+Social Expectations and Obligations,XYZ is entitled to,XYZ tem direito a,XYZ tem direito a,XYZ tem direito a,TRUE,Affirmative
+Social Expectations and Obligations,XYZ isn't entitled to,XYZ não tem direito a,XYZ não tem direito a,XYZ não tem direito a,TRUE,Negative
+Values and Priorities,XYZ considers important to be,XYZ considera importante ser,XYZ considera importante ser,XYZ considera importante ser,TRUE,Affirmative
+Values and Priorities,XYZ doesn't consider important to be,XYZ não considera importante ser,XYZ não considera importante ser,XYZ não considera importante ser,TRUE,Negative
+Values and Priorities,XYZ cares about,XYZ se importa com,XYZ se importa com,XYZ se importa com,TRUE,Affirmative
+Values and Priorities,XYZ doesn't care about,XYZ não se importa com,XYZ não se importa com,XYZ não se importa com,TRUE,Negative
+Values and Priorities,XYZ only cares about,XYZ só se importa com,XYZ só se importa com,XYZ só se importa com,TRUE,Affirmative
+Values and Priorities,XYZ values,XYZ valoriza,XYZ valoriza,XYZ valoriza,TRUE,Affirmative
+Values and Priorities,XYZ doesn't value,XYZ não valoriza,XYZ não valoriza,XYZ não valoriza,TRUE,Negative
+Values and Priorities,XYZ prioritizes,XYZ prioriza,XYZ prioriza,XYZ prioriza,TRUE,Affirmative
+Values and Priorities,XYZ doesn't prioritize,XYZ não prioriza,XYZ não prioriza,XYZ não prioriza,TRUE,Negative
+Values and Priorities,XYZ believes it's essential to,A XYZ acredita que é essencial para,XYZ acredita que é essencial para,XYZ acredita que é essencial para,TRUE,Affirmative
+Values and Priorities,XYZ doesn't believe it's essential to,XYZ não acredita que seja essencial para,XYZ não acredita que seja essencial para,XYZ não acredita que seja essencial para,TRUE,Negative
+Identity,XYZ belongs in,XYZ pertence a,XYZ pertence a,XYZ pertence a,TRUE,Affirmative
+Identity,XYZ doesn't belong in,XYZ não pertence a,XYZ não pertence a,XYZ não pertence a,TRUE,Negative
+Identity,XYZ is part of,XYZ faz parte de,XYZ faz parte de,XYZ faz parte de,TRUE,Affirmative
+Identity,XYZ isn't part of,XYZ não faz parte de,XYZ não faz parte de,XYZ não faz parte de,TRUE,Negative
+Identity,XYZ fits into,XYZ se encaixa em,XYZ se encaixa em,XYZ se encaixa em,TRUE,Affirmative
+Identity,XYZ doesn't fit into,XYZ não se encaixa em,XYZ não se encaixa em,XYZ não se encaixa em,TRUE,Negative
+Identity,XYZ is associated with,XYZ está associado a,XYZ está associada com,XYZ está associado com,FALSE,Affirmative
+Identity,XYZ isn't associated with,XYZ não está associado a,XYZ não está associada com,XYZ não está associado com,FALSE,Negative
+Identity,XYZ identifies as,XYZ se identifica como,XYZ se identifica como,XYZ se identifica como,TRUE,Affirmative
+Identity,XYZ doesn't identify as,XYZ não se identifica como,XYZ não se identifica como,XYZ não se identifica como,TRUE,Negative
+Identity,XYZ sees themselves as,A XYZ se vê como,XYZ se vê como,XYZ se vê como,TRUE,Affirmative
+Identity,XYZ doesn't see themselves as,A XYZ não se vê como,XYZ não se vê como,XYZ não se vê como,TRUE,Negative
+Identity,XYZ behaves like,XYZ se comporta como,XYZ se comporta como,XYZ se comporta como,TRUE,Affirmative
+Identity,XYZ doesn't behave like,XYZ não se comporta como,XYZ não se comporta como,XYZ não se comporta como,TRUE,Negative
+Identity,XYZ tends to be,XYZ tende a ser,XYZ tende a ser,XYZ tende a ser,TRUE,Affirmative
+Identity,XYZ rarely is,XYZ raramente é,XYZ raramente é,XYZ raramente é,TRUE,Negative
+Identity,XYZ is often,XYZ é frequentemente,XYZ é frequentemente,XYZ é frequentemente,TRUE,Affirmative
+Identity,XYZ isn't often,XYZ não é frequentemente,XYZ não é frequentemente,XYZ não é frequentemente,TRUE,Negative
+Identity,XYZ is just,XYZ é apenas,XYZ é apenas,XYZ é apenas,TRUE,Affirmative
+Identity,XYZ isn't just,XYZ não é apenas,XYZ não é apenas,XYZ não é apenas,TRUE,Negative
+Identity,XYZ is always,XYZ é sempre,XYZ é sempre,XYZ é sempre,TRUE,Affirmative
+Identity,XYZ is never,XYZ nunca é,XYZ nunca é,XYZ nunca é,TRUE,Negative
+Identity,XYZ is usually,XYZ geralmente é,XYZ geralmente é,XYZ geralmente é,TRUE,Affirmative
+Identity,XYZ isn't usually,XYZ geralmente não é,XYZ geralmente não é,XYZ geralmente não é,TRUE,Negative
+Identity,XYZ appears to be,XYZ aparenta ser,XYZ aparenta ser,XYZ aparenta ser,TRUE,Affirmative
+Identity,XYZ doesn't appear to be,XYZ não aparenta ser,XYZ não aparenta ser,XYZ não aparenta ser,TRUE,Negative
+Emotional Expressions,XYZ feels comfortable with,XYZ se sente confortável com,XYZ se sente confortável com,XYZ se sente confortável com,TRUE,Affirmative
+Emotional Expressions,XYZ feels uncomfortable with,XYZ se sente desconfortável com,XYZ se sente desconfortável com,XYZ se sente desconfortável com,TRUE,Negative
+Emotional Expressions,XYZ expresses feelings by,XYZ expressa sentimentos,XYZ expressa sentimentos,XYZ expressa sentimentos,TRUE,Affirmative
+Emotional Expressions,XYZ doesn't express feelings by,XYZ não expressa sentimentos,XYZ não expressa sentimentos,XYZ não expressa sentimentos,TRUE,Negative
+Emotional Expressions,XYZ gets easily upset by,XYZ se irrita facilmente com,XYZ se irrita facilmente com,XYZ se irrita facilmente com,TRUE,Negative
+Emotional Expressions,XYZ rarely gets upset by,XYZ raramente se chateia com,XYZ raramente se chateia com,XYZ raramente se chateia com,TRUE,Affirmative
+Emotional Expressions,XYZ openly shows emotions when,XYZ demonstra emoções abertamente quando,XYZ demonstra emoções abertamente quando,XYZ demonstra emoções abertamente quando,TRUE,Affirmative
+Emotional Expressions,XYZ never shows emotions when,XYZ nunca demonstra emoções quando,XYZ nunca demonstra emoções quando,XYZ nunca demonstra emoções quando,TRUE,Negative
